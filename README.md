@@ -1,4 +1,5 @@
-# test-ssh-key
+# test-git-configuration
+
 This repo exists to make sure students have Git and a GitHub SSH key configured correctly on their computers.
 
 If you can clone this repo and push changes back up to it, you're all set.
